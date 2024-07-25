@@ -4,9 +4,9 @@
 
 
 ### PreRequsites
-. Java >=17 version
-. Maven
-. Postgres
+* Java >=17 version
+* Maven
+* Postgres
 
 Clone and run this applicaiton. When tha app is UP and Running use the below to understand APIs
 
